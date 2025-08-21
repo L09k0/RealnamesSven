@@ -6,6 +6,8 @@
 
 Вся документация по использованию в папки билдов
 
+<img width="397" height="124" alt="image" src="https://github.com/user-attachments/assets/c9fbaf45-dee9-489b-a8bd-907a91c06172" />
+_Фото Matze_
 
 # Радмин
 Сервер с базой данных с игроками хостится на радмине на моем компе, вот все для подключения к нему
@@ -13,6 +15,8 @@
 name: REALNAMES SERVER FOR LOGKO
 
 password: REALNAMESSVEN12345
+
+<img width="418" height="210" alt="image" src="https://github.com/user-attachments/assets/b06467fd-75e0-495e-b95b-89b8ce76c7c0" />
 
 # Сервер с игроками
 ip: 26.220.43.164
